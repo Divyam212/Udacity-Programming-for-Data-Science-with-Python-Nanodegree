@@ -15,5 +15,7 @@ Files used
 The required files are used:
 
 washington.csv
+
 new_york_city.csv
+
 chicago.csv
